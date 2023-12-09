@@ -1,0 +1,11 @@
+img{
+    height:200px;
+    width:300px;
+}
+#title{
+    color: white;
+    background-color: black;
+    font-size: 30px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
